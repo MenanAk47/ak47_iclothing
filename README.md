@@ -8,6 +8,7 @@
 <li>Whitelisted clothing protection</li>
 <li>Get robbed, loose skin too </li>
 </ol>
+<p><strong>Don't start/restart the script if player is online</strong></p>
 <p><strong>Dependency:</strong></p>
 <ol>
 <li>skinchanger</li>
