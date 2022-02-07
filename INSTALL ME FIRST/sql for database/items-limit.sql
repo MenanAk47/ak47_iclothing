@@ -33,7 +33,7 @@ REPLACE INTO `items` (`name`, `label`, `limit`) VALUES
   ('hex_gold', 'Hex Gold', -1),
   ('kronos_black', 'Kronos Black', -1),
   ('kronos_gold', 'Kronos Gold', -1),
-  ('pendulus_platinum', 'Pendulus Platinum', -1)
+  ('pendulus_platinum', 'Pendulus Platinum', -1),
 
   ('threequarter_raglan_sleeve', 'Three Quarter Raglan Sleeve', -1),
   ('black_jeans', 'Black Jeans', -1)
