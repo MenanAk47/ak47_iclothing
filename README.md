@@ -1,6 +1,7 @@
 <h1>CLOTHING AS ITEM FOR GTA 5 FIVEM ROLEPLAY SERVER | ESX FRAMEWORK</h1>
 <p>Required minumum <span style="color: #339966;">$10</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
 <p><strong>Video Showcase:</strong> <a href="https://youtu.be/-9QQQlKoqyE" target="_blank">YouTube</a></p>
+<p><strong>Not compatible with ox/linden inventory </strong>(all other inventory works except this one)</p>
 <p><strong>Features: </strong></p>
 <ol>
 <li>Features:</li>
