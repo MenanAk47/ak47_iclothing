@@ -4,7 +4,6 @@
 <p><strong>Not compatible with ox/linden inventory </strong>(all other inventory works except this one)</p>
 <p><strong>Features: </strong></p>
 <ol>
-<li>Features:</li>
 <li>Make any clothing as item</li>
 <li>Whitelisted clothing protection</li>
 <li>Get robbed, loose skin too </li>
